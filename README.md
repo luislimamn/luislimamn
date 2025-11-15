@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Sou Luis Lima graduado em Sistemas de Informação pela UFC e Dev FullStack em HTML, CSS, JavaScript e React.
+Tenho dominio em:
+HTML5, CSS3
+Bootstrap e Design Responsivo
+JavaScript
+Node.js (Backend)
+React.js (Frontend)
+Scrum (Metodologia Ágeis)
+Git e Github (Versionamento de Código)
 <!--
 **luislimamn/luislimamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
